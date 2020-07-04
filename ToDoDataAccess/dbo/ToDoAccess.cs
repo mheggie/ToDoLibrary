@@ -4,8 +4,7 @@ using System.Text;
 
 namespace ToDoDataAccess.dbo
 {
-    public class ToDoDataAccess
+    class ToDoAccess
     {
-
     }
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoDataAccess", "ToDoDataAccess\ToDoDataAccess.csproj", "{4F730C4E-DE9D-49D7-9A3B-0C8FD52A4874}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoDataAccessTests", "ToDoDataAccessTests\ToDoDataAccessTests.csproj", "{5ACA1AA7-051D-4445-8083-FC840ED08F66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F730C4E-DE9D-49D7-9A3B-0C8FD52A4874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F730C4E-DE9D-49D7-9A3B-0C8FD52A4874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F730C4E-DE9D-49D7-9A3B-0C8FD52A4874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACA1AA7-051D-4445-8083-FC840ED08F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACA1AA7-051D-4445-8083-FC840ED08F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACA1AA7-051D-4445-8083-FC840ED08F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACA1AA7-051D-4445-8083-FC840ED08F66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
